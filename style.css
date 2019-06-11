@@ -9,7 +9,7 @@ body {
 
 .text {
     font-size: 9vw;
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-weight: 900;
     letter-spacing: 10px;
     text-align: center;
